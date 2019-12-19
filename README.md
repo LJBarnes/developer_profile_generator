@@ -22,10 +22,14 @@ The Command-Line application functions as follows:
 
 # Installing
 1. Install dependencies by opening index.js in terminal and running command: npm install. 
+![1](https://user-images.githubusercontent.com/53705501/71138442-87e87600-21d9-11ea-9879-067d2fc7cfdd.jpg)
 2. Run application with node.js by running command: node index.js
 3. Enter GitHub username when prompted.
 4. Use arrows and return button to select color from list. 
+![2](https://user-images.githubusercontent.com/53705501/71138443-87e87600-21d9-11ea-8dca-04fad0275415.jpg)
 5. Navigate to saved pdf file on computer and open.
+![3](https://user-images.githubusercontent.com/53705501/71138444-87e87600-21d9-11ea-91bc-4e02c396254e.jpg)
+
 
 # Built With
 JavaScript
