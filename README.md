@@ -32,13 +32,13 @@ The Command-Line application functions as follows:
 
 
 # Built With
-JavaScript
+JavaScript,
 Node.js
 
 # NPM
-HTML-PDF
-Inquirer 
-Axios
+HTML-PDF,
+Inquirer, 
+Axios,
 File System
 
 # API
