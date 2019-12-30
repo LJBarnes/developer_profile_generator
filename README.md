@@ -19,6 +19,7 @@ The Command-Line application functions as follows:
 2. Axios is used to retrieve user's GitHub data from the GitHub API
 3. An HTML file is generated dynamically and then saved to the computer.
 4. The HTML file is converted to a PDF file and saved to the computer. 
+![gif](https://user-images.githubusercontent.com/53705501/71602516-b560e800-2b26-11ea-8479-8f246fc7b3cb.gif)
 
 # Installing
 1. Install dependencies by opening index.js in terminal and running command: npm install. 
